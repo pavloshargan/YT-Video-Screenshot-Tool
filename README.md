@@ -2,6 +2,7 @@
 
 A simple PyQt tool to take screenshots from YouTube videos. With its transparent overlay, you can specify a region on the screen and capture data. Useful for dataset creation!
 
+![preview](image.png)
 ## Features
 
 - **Region Selection**: Define the area you want to capture.
